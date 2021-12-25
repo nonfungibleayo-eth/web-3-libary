@@ -1,3 +1,6 @@
 # web-3-libary
 A collection of resources to learn about web 3 and blochain.
-The resources are available in audio,videos,book,websites,documentations e.t.c
+The repository contains resources and tutorials that will help you to kick start your journey in the web 3 space .
+The resources contain in this repositiory are begginner freindly and take you from  zero knowledge to expert in the web 3 space.
+It also contains advanced tutorials for expert who wants to improve their knowledge of web 3.
+Their are wide range of resuorces and tutorials available in videos,websites,gamefied tutorials and books.
