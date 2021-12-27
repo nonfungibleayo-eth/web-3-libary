@@ -20,9 +20,14 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 10.0 [projects and practices]()
 
 # Audiobooks
- [Blockchain,Ethereum,Bitcoin,Crypocurrency by Neil Hoffman](https://podtail.com/en/podcast/get-popular-titles-free-audio-books-of-business-pe/blockchain-bitcoin-ethereum-cryptocurrency-audiobo/) 
- [Cryptocurrency3 In 1 - Blockchain, Bitcoin, Ethereum (Audible Version) Mark Smith](https://www.amazon.com/dp/B078P6VPVN?tag=uuid10-20) 
- [Bitcoin Explained + Blockchain Explained(Audible Version) Mark Atwood](https://www.amazon.com/dp/B07FM9XLGF?tag=uuid10-20) 
- [Blockchain- Guide to Financial Success with Blockchain 2 in 1 (Audible Version) Charles Jensen](https://www.amazon.com/Blockchain-Financial-Success-2-1/dp/B0759YKZ6G?tag=uuid10-20) 
-[Blockchain- A Beginner's Guide To Understanding And Mastering Of Blockchain (Audible Version) Eliot Reznor](https://www.amazon.com/dp/B076DGN1Q6?tag=uuid10-20)
+
+# [Blockchain,Ethereum,Bitcoin,Crypocurrency by Neil Hoffman](https://podtail.com/en/podcast/get-popular-titles-free-audio-books-of-business-pe/blockchain-bitcoin-ethereum-cryptocurrency-audiobo/) 
+
+# [Cryptocurrency3 In 1 - Blockchain, Bitcoin, Ethereum (Audible Version) Mark Smith](https://www.amazon.com/dp/B078P6VPVN?tag=uuid10-20) 
+
+# [Bitcoin Explained + Blockchain Explained(Audible Version) Mark Atwood](https://www.amazon.com/dp/B07FM9XLGF?tag=uuid10-20) 
+
+# [Blockchain- Guide to Financial Success with Blockchain 2 in 1 (Audible Version) Charles Jensen](https://www.amazon.com/Blockchain-Financial-Success-2-1/dp/B0759YKZ6G?tag=uuid10-20) 
+
+# [Blockchain- A Beginner's Guide To Understanding And Mastering Of Blockchain (Audible Version) Eliot Reznor](https://www.amazon.com/dp/B076DGN1Q6?tag=uuid10-20)
  
