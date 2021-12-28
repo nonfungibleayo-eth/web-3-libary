@@ -42,4 +42,6 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [Unchained by Laura shin - A podcast about blockchian](https://itunes.apple.com/us/podcast/id1123922160)
 
 # [EthereumProgramming and Mining to Better Investments (Audible Version) by Jiles Reeves, Jim Rising ](https://www.amazon.com/dp/B07F6QH1LN?tag=uuid10-20)
+
+# [Solidity Smart Contracts Build DApps in the Ethereum Blockchain By: Rangel Stoilov ](https://www.audible.com/pd/Solidity-Smart-Contracts-Audiobook/B07QD7SS7L)
  
