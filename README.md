@@ -62,4 +62,12 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [Blockchain A Complete Beginner's Guide - Master The Game (Audible Version) Luke Sutton ](https://www.amazon.com/dp/B01LWP2TE0?tag=uuid10-20)
 
 # [Blockchain Discover the Technology behind Smart Contracts, Wallets, Mining and Cryptocurrency (Audible Version) Abraham K White ](https://www.amazon.com/dp/B07DHY9GNR?tag=uuid10-20)
+
+# [Blockchain The Key to Learning and Understanding Blockchain and how it relates to Bitcoin, Cryptocurrency, and Mining (Audible Version) Roger Bray](https://www.amazon.com/dp/B0774YGC53?tag=uuid10-20)
+
+# [Blockchain Complete Guide To Understanding The Blockchain Technology Revolution And The Future Of Money (Audible Version) Matt Cohen ](https://www.amazon.com/dp/B077BLS96S?tag=uuid10-20)
+
+# [Vitalik Buterin's Seven Deadly Crypto Sins (Audible Version) Jefferson Nunn, Liam Kelly](https://www.amazon.com/dp/B07MLF6XRY?tag=uuid10-20)
+
+# [Fintech Hacking, Blockchain, Big Data, Cryptocurrency (Audible Version) Eliot P Reznor](https://www.amazon.com/dp/B077KG4QJS?tag=uuid10-20)
  
