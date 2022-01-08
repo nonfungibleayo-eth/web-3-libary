@@ -44,4 +44,10 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [EthereumProgramming and Mining to Better Investments (Audible Version) by Jiles Reeves, Jim Rising ](https://www.amazon.com/dp/B07F6QH1LN?tag=uuid10-20)
 
 # [Solidity Smart Contracts Build DApps in the Ethereum Blockchain By: Rangel Stoilov ](https://www.audible.com/pd/Solidity-Smart-Contracts-Audiobook/B07QD7SS7L)
+
+# [NFT Investing for Beginners to Advanced, Make Money; Buy, Sell, Trade, Invest in Crypto Art, Create Digital Assets, Earn Passive income in ... You Need to Know about Non Fungible Tokens (Audible Version) NFT Trending Crypto Art](https://www.amazon.com/dp/B097J4NMST?tag=uuid10-20) 
+
+# [Ultimate Money Guide to NFT INVESTING Non-Fungible token for Beginners and Beyond Easy step by step guide using cryptocurrency in blockchain to make, buy, sell, trade, and invest in NFT Crypto (Audible Version)](https://www.amazon.com/dp/B093RJ5271?tag=uuid10-20)
+
+# [NFT Blueprint(Audible Version)](https://www.amazon.com/dp/B0991JPWRK?tag=uuid10-20)
  
