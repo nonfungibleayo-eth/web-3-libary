@@ -50,4 +50,16 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [Ultimate Money Guide to NFT INVESTING Non-Fungible token for Beginners and Beyond Easy step by step guide using cryptocurrency in blockchain to make, buy, sell, trade, and invest in NFT Crypto (Audible Version)](https://www.amazon.com/dp/B093RJ5271?tag=uuid10-20)
 
 # [NFT Blueprint(Audible Version)](https://www.amazon.com/dp/B0991JPWRK?tag=uuid10-20)
+
+# [Non-Fungible Token Investing Mastery Cryptocurrency History, Market Analysis, Create, Market, Buy, Sell and Trade: NFT Crypto Investing Guide for Beginners to Expert: Art, Tokens, Music, Film (Audible Version) by Cameron Belford ](https://www.amazon.com/dp/B09BG664N8?tag=uuid10-20)
+
+# [Beginners NFT | Learn About NFT And What Makes Them Valuable.A Quick Way To Get Started With NFTs. Don't Miss Out, Possibility Are Endless. (Audible Version)](https://www.amazon.com/dp/B09B2DYFWW?tag=uuid10-20)
+
+# [NFT Art and Collectables for Beginners The Must Have Guide for Understanding Non Fungible Tokens (Audible Version) Chris Collins](https://www.amazon.com/dp/B0979PR3VP?tag=uuid10-20)
+
+# [BLOCKCHAIN BASICS BIBLE Non-Technical Beginner's Guide About Cryptocurrency. Bitcoin | Ethereum | Smart Contracts | Consensus Protocols | NFT | Blockchain Gaming | Mining (Audible Version) Nakamoto Hasegawa](https://www.amazon.com/dp/B09H3B1QTV?tag=uuid10-20)
+
+# [Blockchain A Complete Beginner's Guide - Master The Game (Audible Version) Luke Sutton ](https://www.amazon.com/dp/B01LWP2TE0?tag=uuid10-20)
+
+# [Blockchain Discover the Technology behind Smart Contracts, Wallets, Mining and Cryptocurrency (Audible Version) Abraham K White ](https://www.amazon.com/dp/B07DHY9GNR?tag=uuid10-20)
  
