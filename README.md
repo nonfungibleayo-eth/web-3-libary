@@ -9,7 +9,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 
 ## Contents 
 # 1.0 [Audiobooks](#Audiobooks)
-# 2.0 [Gamified tutorial](#Gamified tutorials)
+# 2.0 [Gamified tutorial](#Gamified-tutorials)
 # 3.0 [websites]()
 # 4.0 [Videos]()
 # 5.0 [Online free courses]()
@@ -72,7 +72,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [Fintech Hacking, Blockchain, Big Data, Cryptocurrency (Audible Version) Eliot P Reznor](https://www.amazon.com/dp/B077KG4QJS?tag=uuid10-20)
 
 
-# Gamified tutorials
+# Gamified-tutorials
 
 # [Cryptozombies](https://cryptozombies.io/)
 
