@@ -9,7 +9,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 
 ## Contents 
 # 1.0 [Audiobooks](#Audiobooks)
-# 2.0 [Gamified tutorial]()
+# 2.0 [Gamified tutorial](#Gamified tutorials)
 # 3.0 [websites]()
 # 4.0 [Videos]()
 # 5.0 [Online free courses]()
@@ -70,4 +70,21 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [Vitalik Buterin's Seven Deadly Crypto Sins (Audible Version) Jefferson Nunn, Liam Kelly](https://www.amazon.com/dp/B07MLF6XRY?tag=uuid10-20)
 
 # [Fintech Hacking, Blockchain, Big Data, Cryptocurrency (Audible Version) Eliot P Reznor](https://www.amazon.com/dp/B077KG4QJS?tag=uuid10-20)
+
+
+# Gamified tutorials
+
+# [Cryptozombies](https://cryptozombies.io/)
+
+# [Ethernaut](https://ethernaut.openzeppelin.com/)
+
+# [capture the ether](https://capturetheether.com/)
+
+# [Damn vulnerable defi](https://www.damnvulnerabledefi.xyz/)
+
+# [vyper fun](https://vyper.fun/lessons.html#)
+
+# [bit degree](https://www.bitdegree.org/course/learn-solidity-space-doggos)
+
+# []()
  
