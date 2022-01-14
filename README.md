@@ -132,5 +132,10 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 
 # [web3.moralis.io](https://web3.moralis.io/optin-517513701636993466200?device=c&gclid=EAIaIQobChMIuPWByNqx9QIVQ53VCh32qgdoEAAYASAAEgJxz_D_BwE&network=g&utm_campaign=15706687341&utm_medium=133076967353&utm_source=gads)
 
+# [hackr.io](https://hackr.io/tutorials/learn-blockchain)
+
+# [eudreka](https://www.edureka.co/blog/blockchain-programming)
+
+# [docs.openzepellin.com](https://docs.openzeppelin.com/learn/developing-smart-contracts)
 
  
