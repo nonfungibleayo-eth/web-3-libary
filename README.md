@@ -122,5 +122,15 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 
 # [guru99](https://www.guru99.com/blockchain-tutorial.html)
 
+# [figment.io](https://learn.figment.io/tutorials/write-and-deploy-a-smart-contract-on-near)
+
+# [ethereum.for.rust](https://ethereum.org/en/developers/docs/programming-languages/rust/)
+
+# [rust-lang.org](https://www.rust-lang.org/learn)
+
+# [bitcoin.org](https://bitcoin.org/en/how-it-works)
+
+# [web3.moralis.io](https://web3.moralis.io/optin-517513701636993466200?device=c&gclid=EAIaIQobChMIuPWByNqx9QIVQ53VCh32qgdoEAAYASAAEgJxz_D_BwE&network=g&utm_campaign=15706687341&utm_medium=133076967353&utm_source=gads)
+
 
  
