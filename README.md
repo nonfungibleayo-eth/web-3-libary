@@ -162,11 +162,11 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 
 # [Intellipaat](https://www.youtube.com/watch?v=orexiRMFJqs)
 
-# [freecode camp solidty tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+# [freecode camp solidity tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 
 # [code eater solidity](https://www.youtube.com/watch?v=NqGe942J4Y0)
 
-# [Nader dabit](https://www.youtube.com/watch?v=GKJBEEXUha0)
+# [Nader dabit blockchain development tutorial](https://www.youtube.com/watch?v=GKJBEEXUha0)
 
 # [Dapp university Ethereum full course](https://www.youtube.com/watch?v=XLahq4qyors)
 
@@ -180,4 +180,14 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 
 # [Moralis web 3](https://www.youtube.com/watch?v=tBMk1iZa85Y)
 
- 
+# [Ethereum tutorial for beginners](https://www.youtube.com/watch?v=uneCaqD6Etk)
+
+# [Intro to ethereum programming](https://www.youtube.com/watch?v=XLahq4qyors)
+
+# [The complete guide tto ethereum full stack](https://www.youtube.com/watch?v=a0osIaAOFSE)
+
+# [Build and deploy a modern web3 & blockchain app](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+
+# [How to create an NFT collection  ultimate guide](https://www.youtube.com/watch?v=fzH7Gjadmj0)
+
+ # [Code a blockchain game step by step ](https://www.youtube.com/watch?v=x-6ruqmNS3o)
