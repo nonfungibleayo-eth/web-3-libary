@@ -11,7 +11,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 1.0 [Audiobooks](#Audiobooks)
 # 2.0 [Gamified tutorial](#Gamified-tutorials)
 # 3.0 [websites](#websites)
-# 4.0 [Videos]()
+# 4.0 [Videos](#Videos)
 # 5.0 [Online free courses]()
 # 6.0 [Books]()
 # 7.0 [Articles]()
@@ -137,5 +137,47 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [eudreka](https://www.edureka.co/blog/blockchain-programming)
 
 # [docs.openzepellin.com](https://docs.openzeppelin.com/learn/developing-smart-contracts)
+
+# Videos
+
+# [freecode camp {Youtube}](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+# [Eudreaka {Youtube}](https://www.youtube.com/watch?v=QCvL-DWcojc)
+
+# [Dapp University {Youtube}](https://www.youtube.com/watch?v=99pYGpTWcXM)
+
+# [Telusko](https://www.youtube.com/watch?v=X06TQOOBrhM)
+
+# [Simply explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+
+# [Code eater](https://www.youtube.com/watch?v=6aF6p2VUORE)
+
+# [coding Tech](https://www.youtube.com/watch?v=qOVAbKKSH10)
+
+# [simplilearn](https://www.youtube.com/watch?v=SyVMma1IkXM)
+
+# [DevsWiki](https://www.youtube.com/watch?v=dn1QsirJ8gk)
+
+# [MobileFish](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x)
+
+# [Intellipaat](https://www.youtube.com/watch?v=orexiRMFJqs)
+
+# [freecode camp solidty tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+
+# [code eater solidity](https://www.youtube.com/watch?v=NqGe942J4Y0)
+
+# [Nader dabit](https://www.youtube.com/watch?v=GKJBEEXUha0)
+
+# [Dapp university Ethereum full course](https://www.youtube.com/watch?v=XLahq4qyors)
+
+# [Master solidity step by step full course](https://www.youtube.com/watch?v=YJ-D1RMI0T0)
+
+# [Build a defi app with solidity,ethereum,web js, truffle](https://www.youtube.com/watch?v=CgXQC4dbGUE)
+
+# [NFT/ERC-721/Collectible END-TO-END TUTORIAL | Deploy, List on Opensea, Host Metadata on IPFS](https://www.youtube.com/watch?v=p36tXHX1JD8)
+
+# [Eat the blocks](https://www.youtube.com/watch?v=p3C7jljTXaA&list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea)
+
+# [Moralis web 3](https://www.youtube.com/watch?v=tBMk1iZa85Y)
 
  
