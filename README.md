@@ -12,12 +12,11 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 2.0 [Gamified tutorial](#Gamified-tutorials)
 # 3.0 [websites](#websites)
 # 4.0 [Videos](#Videos)
-# 5.0 [Online free courses]()
-# 6.0 [Books]()
-# 7.0 [Articles]()
-# 8.0 [Documentations]()
-# 9.0 [Blogs]()
-# 10.0 [projects and practices]()
+# 5.0 [Books]()
+# 6.0 [Articles]()
+# 7.0 [Documentations]()
+# 8.0 [Blogs]()
+# 9.0 [projects and practices]()
 
 # Audiobooks
 
