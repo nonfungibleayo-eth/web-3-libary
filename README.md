@@ -17,7 +17,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 7.0 [Documentations]()
 # 8.0 [Blogs]()
 # 9.0 [projects and practices]()
-# 10.0[Udemy courses]()
+# 10.0 [Udemy courses]()
 # Audiobooks
 
 # [Blockchain,Ethereum,Bitcoin,Crypocurrency by Neil Hoffman](https://podtail.com/en/podcast/get-popular-titles-free-audio-books-of-business-pe/blockchain-bitcoin-ethereum-cryptocurrency-audiobo/) 
@@ -229,4 +229,16 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
  
  # [Introduction to Blockchain Technology by Tiana Laurence](https://amzn.to/3kuh1k1)
  
- # 
+ # [Quick Guide for Smart Contracts Creation and Deployment on Ethereum Blockchain by Hedaia Mahmood Al-Assouli](https://www.amazon.com/dp/0359955657?tag=uuid10-20)
+ 
+ # [Ethereum Smart Contract Development in Solidity by Gavin Zheng, Longxiang Gao, Liqun Huang, Jian Guan](https://www.amazon.com/dp/9811562172?tag=uuid10-20)
+ 
+ # [Beginning Ethereum and Solidity with React by Greg Lim](https://www.amazon.com/dp/9811477981?tag=uuid10-20)
+ 
+ # [Mastering Blockchain A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition by Imran Bashir](https://www.amazon.com/dp/1839213191?tag=uuid10-20)
+ 
+ # [Smart Contract Development with Solidity and Ethereum Building Smart Contracts with the Azure Blockchain by Akhil Mittal](https://www.amazon.com/dp/9388511913?tag=uuid10-20)
+ 
+ # [The Bitcoin Whitepapper](https://bitcoin.org/bitcoin.pdf)
+ 
+ # [Building on Ethereum With Solidity and React by Cliff Hal](https://www.amazon.com/dp/1734552107?tag=uuid10-20)
