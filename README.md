@@ -18,6 +18,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 8.0 [Blogs]()
 # 9.0 [projects and practices]()
 # 10.0 [Udemy courses]()
+# 11.0 [twitter threads]()
 # Audiobooks
 
 # [Blockchain,Ethereum,Bitcoin,Crypocurrency by Neil Hoffman](https://podtail.com/en/podcast/get-popular-titles-free-audio-books-of-business-pe/blockchain-bitcoin-ethereum-cryptocurrency-audiobo/) 
