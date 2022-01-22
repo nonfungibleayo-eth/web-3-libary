@@ -242,3 +242,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
  # [The Bitcoin Whitepapper](https://bitcoin.org/bitcoin.pdf)
  
  # [Building on Ethereum With Solidity and React by Cliff Hal](https://www.amazon.com/dp/1734552107?tag=uuid10-20)
+ 
+ Note: Most of these books are paid but to download a free version of it follow these steps: 
+  (1) Go to Google 
+  (2) type: download "name of the book" free 
