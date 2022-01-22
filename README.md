@@ -12,12 +12,12 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 2.0 [Gamified tutorial](#Gamified-tutorials)
 # 3.0 [websites](#websites)
 # 4.0 [Videos](#Videos)
-# 5.0 [Books]()
+# 5.0 [Books](#Books)
 # 6.0 [Articles]()
 # 7.0 [Documentations]()
 # 8.0 [Blogs]()
 # 9.0 [projects and practices]()
-
+# 10.0[Udemy courses]()
 # Audiobooks
 
 # [Blockchain,Ethereum,Bitcoin,Crypocurrency by Neil Hoffman](https://podtail.com/en/podcast/get-popular-titles-free-audio-books-of-business-pe/blockchain-bitcoin-ethereum-cryptocurrency-audiobo/) 
@@ -190,3 +190,43 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [How to create an NFT collection  ultimate guide](https://www.youtube.com/watch?v=fzH7Gjadmj0)
 
  # [Code a blockchain game step by step ](https://www.youtube.com/watch?v=x-6ruqmNS3o)
+ 
+ # Books 
+ 
+ # [Ethereum: Complete Guide to Understanding Ethereum, Blockchain, Smart Contracts, ICOs, and Decentralized Apps. Includes guides on buying Ether, Cryptocurrencies ... in ICOs. Ultimate Cryptocurrency Book 3 by Mark Gates ](https://www.amazon.com/Ethereum-Understanding-Blockchain-Decentralized-Cryptocurrencies-ebook/dp/B078683DXR)
+ 
+ # [Blockchain The Ultimate Collection Guide To Mastering Bitcoin, Ethereum & Other Cryptocurrencies - Litecoin, Ripple, Putincoin and Many More! by Ryan Hart ](https://www.amazon.com/Blockchain-Collection-Mastering-Cryptocurrencies-Putincoin/dp/1981939911?tag=uuid10-20)
+ 
+ # [Bitcoin Explained + Blockchain Explained by Mark Atwood ](https://www.amazon.com/dp/1981046437?tag=uuid10-20)
+ 
+ # [Beginning Ethereum Smart Contracts Programming With Examples in Python, Solidity, and JavaScript](https://link.springer.com/book/10.1007/978-1-4842-5086-0)
+ 
+ # [ Ethereum Projects for Beginners: Build blockchain-based cryptocurrencies, smart contracts, and DApps by Kenny Vaneetvelde](https://www.goodreads.com/book/show/41210348-ethereum-projects-for-beginners)
+ 
+ # [ Advanced Blockchain Development: Build highly secure, decentralized applications and conduct secure transactions by Imran Bashir, Narayan Prusty](https://www.goodreads.com/book/show/51031006-advanced-blockchain-development)
+ 
+ # [The Blockchain Developer: A Practical Guide for Designing, Implementing, Publishing, Testing, and Securing Distributed Blockchain-based Projects by Elrad Elrom](https://www.amazon.in/Blockchain-Developer-Implementing-Distributed-Blockchain-based/dp/1484248465)
+ 
+ # [Hands on Blockchain for Python Developers Arjuna Sky Kok](https://www.oreilly.com/library/view/advanced-blockchain-development/9781838823191/df83e5b7-af54-47e5-be31-b943c006792c.xhtml)
+ 
+ # [Coding for Beginners: Blockchain Development: A step-by-step guide to create your own Blockchains, Cryptocurrencies and NFTs (Learn to Code) by Elliot Davies](https://www.amazon.com/Coding-Beginners-step-step-Cryptocurrencies/dp/B09P1VTB3D)
+ 
+ # [Blockchain Development for Finance Projects By Ishan Roy](https://www.packtpub.com/checkout/subscription/packt-monthly-five-month-offer)
+ 
+ # [Blockchain 3.0 for Sustainable Development](https://www.degruyter.com/document/doi/10.1515/9783110702507/html)
+ 
+ # [Forward Thinking Blockchain Development by Christopher paul Thompson](https://www.amazon.com/BLACK-WHITE-INTERIOR-DigiByte-Introductory/dp/B09FSCF2CQ)
+ 
+ # [Cryptocurrency and Blockchain Technology Edited by: Shaen Corbet, Andrew Urquhart and Larisa Yarovaya](https://www.degruyter.com/document/doi/10.1515/9783110660807/html)
+ 
+ # [Introduction to Bitcoin The Internet of Money by Andreas M. Antonopoulos](https://amzn.to/37FBIWH)
+ 
+ # [The Internet of Money Vol. 2 by Andreas M. Antonopoulos](https://amzn.to/3orMcPa)
+ 
+ # [Introduction to Blockchain Blockchain Revolution by Don Tapscott, Alex Tapscott](https://amzn.to/2Tol6Kx)
+ 
+ # [Blockchain Basics: A Non-Technical Introduction in 25 Steps Daniel Drescher](https://amzn.to/37SJkVZ)
+ 
+ # [Introduction to Blockchain Technology by Tiana Laurence](https://amzn.to/3kuh1k1)
+ 
+ # 
