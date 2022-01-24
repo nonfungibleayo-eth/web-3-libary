@@ -285,4 +285,22 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
   
   # [What are Decentralized Autonomous Organizations DAO in Blockchain](https://www.blockchain-council.org/multichain/decentralized-autonomous-organization-dao-blockchain/)
   
-  # []()
+  # [Decoding Smart Contracts and their used cases](https://www.blockchain-council.org/blockchain/decoding-smart-contracts-and-their-used-cases/)
+  
+  # [Blockchain’s Brilliant Approach To Fostering Smart Cities](https://www.blockchain-council.org/blockchain/blockchains-brilliant-approach-to-fostering-smart-cities/)
+  
+  # [Blockchain Technology to be implemented in Gaming Industry](https://www.blockchain-council.org/blockchain/blockchain-technology-to-be-implemented-in-gaming-industry/)
+  
+  # [How Can Blockchain Be Used in the Enterprise Storage Industry?](https://www.blockchain-council.org/blockchain/how-can-blockchain-be-used-in-the-enterprise-storage-industry/)
+  
+  # [6 Categories of Blockchain Use Cases](https://www.blockchain-council.org/use-cases/6-categories-of-blockchain-use-cases/)
+  
+  # [Zero Knowledge Proof(ZKP) Explained.](https://aqfatma.hashnode.dev/zero-knowledge-proof-explained)
+  
+  # [https://drayfocus.hashnode.dev/cryptography-and-its-uses](https://drayfocus.hashnode.dev/cryptography-and-its-uses)
+  
+  # [What is Web 3.0? - The Complete Beginner's Guide to Web 3.0](https://blog.manthankaneriya.com/what-is-web-30-the-complete-beginners-guide-to-web-30)
+  
+  # [Getting familiar with Remix IDE](https://aipython.hashnode.dev/getting-familiar-with-remix-ide)
+  
+  # [Web 3.0 Terms and Definitions in simple words](https://blog.manthankaneriya.com/web-30-terms-and-definitions-in-simple-words)
