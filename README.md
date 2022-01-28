@@ -14,11 +14,10 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 4.0 [Videos](#Videos)
 # 5.0 [Books](#Books)
 # 6.0 [Articles](#Articles)
-# 7.0 [Documentations]()
-# 8.0 [Blogs]()
-# 9.0 [projects and practices]()
-# 10.0 [Udemy courses]()
-# 11.0 [twitter threads]()
+# 7.0 [Blogs](#Blogs)
+# 10.0 [projects and practices]()
+# 9.0 [Udemy courses]()
+# 10.0 [twitter threads]()
 # Audiobooks
 
 # [Blockchain,Ethereum,Bitcoin,Crypocurrency by Neil Hoffman](https://podtail.com/en/podcast/get-popular-titles-free-audio-books-of-business-pe/blockchain-bitcoin-ethereum-cryptocurrency-audiobo/) 
@@ -304,3 +303,41 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
   # [Getting familiar with Remix IDE](https://aipython.hashnode.dev/getting-familiar-with-remix-ide)
   
   # [Web 3.0 Terms and Definitions in simple words](https://blog.manthankaneriya.com/web-30-terms-and-definitions-in-simple-words)
+  
+  # Blogs
+  
+  # [Idris Olubisi Ayinde](hashnode.com/@olanetsoft)
+  
+  # [Langford Kwaben](hashnode.com/@Langfordk)
+  
+  # [Eniola agbo ola ](hashnode.com/@EniolaAgboola)
+  
+  # [Favor Onuoha](hasnode.com/@heyOnouha)
+  
+  # [Tech myssteeque](hashode.com/@AqFatma)
+  
+  # [Ayomide Akinola](hashnode.com/@drayfocus)
+  
+  # [Samina](hashnode.com/@saminacodes)
+  
+  # [Mohanad Kandil](hashnode.com/@kandil)
+  
+  # [Emmanuel Awosika](hashnode.com/@eawosika)
+  
+  # [Pranav Raj](hashnode.com/@aipython)
+  
+  # [Joshua Adesanya](hashnode.com/@Josh4324)
+  
+  # [Devdatta Khoche](hashnode.com/@devdattakhoche)
+  
+  # [Snehendu Roy](hashnodecom/@snehenduroy)
+  
+  # [Sharon jebitok](hashnode.com/@jebitok)
+  
+  # [Arran Fletcher](https://dev.to/mfcodeworks)
+  
+  # [Fangjun](https://dev.to/yakult)
+  
+  # [Sokaribo Senibo](https://dev.to/sokaribosenibo)
+  
+  # []()
