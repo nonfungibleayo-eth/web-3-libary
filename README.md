@@ -340,4 +340,20 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
   
   # [Sokaribo Senibo](https://dev.to/sokaribosenibo)
   
-  # []()
+  # [Nader Dabit](https://dev.to/dabit3)
+  
+  # [Abhinav Pathak](https://dev.to/abhinavxt)
+  
+  # [Eda](https://dev.to/edatweets_)
+  
+  # [Allan jackob](https://dev.to/allanjackob)
+  
+  # [Btc wire](https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4923646&q=site:https%3A%2F%2Fwww.btcwires.com%2Ffeed%2F)
+  
+  # [week in ethereum](http://www.weekinethereum.com/)
+  
+  # [Hackernoon](https://hackernoon.com/)
+  
+  # [Blockchain Unleashed](https://www.ibm.com/blogs/blockchain)
+  
+  # [Trent Lapinski](https://medium.com/u/138c86887e95?source=post_page-----cf0e03a0c7fb-----------------------------------)
