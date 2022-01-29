@@ -15,9 +15,9 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 5.0 [Books](#Books)
 # 6.0 [Articles](#Articles)
 # 7.0 [Blogs](#Blogs)
-# 10.0 [projects and practices]()
-# 9.0 [Udemy courses]()
-# 10.0 [twitter threads]()
+# 8.0 [Udemy courses]()
+
+
 # Audiobooks
 
 # [Blockchain,Ethereum,Bitcoin,Crypocurrency by Neil Hoffman](https://podtail.com/en/podcast/get-popular-titles-free-audio-books-of-business-pe/blockchain-bitcoin-ethereum-cryptocurrency-audiobo/) 
@@ -357,3 +357,33 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
   # [Blockchain Unleashed](https://www.ibm.com/blogs/blockchain)
   
   # [Trent Lapinski](https://medium.com/u/138c86887e95?source=post_page-----cf0e03a0c7fb-----------------------------------)
+  
+  # Udemy courses 
+  
+  # [Blockchain A-Z™: Learn How To Build Your First Blockchain by Hadelin de Ponteves, Kirill Eremenko, Ligency I Team, Ligency Team](https://www.udemy.com/course/build-your-blockchain-az/)
+  
+  # [Blockchain and bitcoin fundamentals George Levy](https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/)
+  
+  # [Ethereum and solidity The complete developers Guide by Stephen Grider](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+  
+  # [Ethereum Blockchain Developer Bootcamp With Solidity (2022) by Ravinder Deol & Thomas weisner](https://www.udemy.com/course/blockchain-developer/)
+  
+  # [The complete solidity course -Blockchain- Zero to expert by Clarian North, Tj walker, Trainig worldwide Digital](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/)
+  
+  # [Introdution to blockchain with industry application by Kirill Eremenko](https://www.udemy.com/course/blockchain-introduction/)
+  
+  # [Complete DApp - Solidity & React - Blockchain Development by Clarian North, Tj walker, Trainig worldwide Digital](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development/)
+  
+  # [Blockchain for business- The new indutrial revolution By 365 careers](https://www.udemy.com/course/blockchain-for-business-the-new-industrial-revolution/)
+  
+  # [Learn blockchain by building your own in Javacript by Eric Traub](https://www.udemy.com/course/build-a-blockchain-in-javascript/)
+  
+  # [Build a blockchain and a cryptocurrency from scratch David Joseph Katz](https://www.udemy.com/course/build-blockchain/)
+  
+  # [Build your own proof of stake blockchain by Lukas Hubi](https://www.udemy.com/course/build-your-own-proof-of-stake-blockchain/)
+  
+  # [Getting started with web3 development by Sebastien arbogast & Said eldhourhiri](https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/)
+
+# [Build a blockchain & cryptocurrency full stack edition by David Joseph Katz ](https://www.udemy.com/course/build-blockchain-full-stack/)
+
+# [Build an NFT marketplace from scratch Blockchian Dapp by Clarian North, Tj walker, Trainig worldwide Digital](https://www.udemy.com/course/build-an-nft-marketplace-from-scratch-blockchain-dapp/)
