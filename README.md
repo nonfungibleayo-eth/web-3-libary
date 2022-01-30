@@ -15,7 +15,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # 5.0 [Books](#Books)
 # 6.0 [Articles](#Articles)
 # 7.0 [Blogs](#Blogs)
-# 8.0 [Udemy courses]()
+# 8.0 [Udemy courses](#Udemy-courses)
 
 
 # Audiobooks
@@ -358,7 +358,7 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
   
   # [Trent Lapinski](https://medium.com/u/138c86887e95?source=post_page-----cf0e03a0c7fb-----------------------------------)
   
-  # Udemy courses 
+  # Udemy-courses 
   
   # [Blockchain A-Z™: Learn How To Build Your First Blockchain by Hadelin de Ponteves, Kirill Eremenko, Ligency I Team, Ligency Team](https://www.udemy.com/course/build-your-blockchain-az/)
   
@@ -387,3 +387,25 @@ Their are wide range of resuorces and tutorials available in videos,websites,gam
 # [Build a blockchain & cryptocurrency full stack edition by David Joseph Katz ](https://www.udemy.com/course/build-blockchain-full-stack/)
 
 # [Build an NFT marketplace from scratch Blockchian Dapp by Clarian North, Tj walker, Trainig worldwide Digital](https://www.udemy.com/course/build-an-nft-marketplace-from-scratch-blockchain-dapp/)
+
+# [Python, Js & React | build a blockchain cryptocurrency by David Joseph Katz](https://www.udemy.com/course/python-js-react-blockchain/)
+
+# [Blockchain pogramming by Levi Barnes & Nerdbarn learning](https://www.udemy.com/course/build-your-own-cryptocurrency-in-48-hours/)
+
+# [The complete cryptocurrency course more 5 courses in 1 by chris haroun](https://www.udemy.com/course/the-complete-cryptocurrency-course-more-than-5-courses-in-1/)
+
+# [Blockchain in supply chain management by Goerge Levy](https://www.udemy.com/course/blockchain-supply-chain-management/)
+
+# [Building an ethereum blockchain dapp using solidity by Total seminars](https://www.udemy.com/course/building-an-ethereum-blockchain-app-the-total-course/)
+
+# [Full cryptocurrency course: Bitcoin, Ethereum & blockchain by Marcus Gustafsson](https://www.udemy.com/course/full-cryptocurrency-course-bitcoin-ethereum-blockchain/)
+
+# [Ethereum Development Masterclass by Blockchain post](https://www.udemy.com/course/ethereum-developer-masterclass/)
+
+# [Complete blockchain course for beginner by Jitesh Khurkhuriya ](https://www.udemy.com/course/learn-blockchain-technology-and-cryptocurrency-for-beginners/)
+
+# [Build a blockchain and cryptocurrency using python by Dr Zakwan Jarouchen](https://www.udemy.com/course/build-a-blockchain-cryptocurrency-using-python/)
+
+# [Practical blockchain & smart contract| ethereum and solidity by Ahbilash nelson](https://www.udemy.com/course/blockchain-and-smart-contracts-a-complete-practical-guide/)
+
+# for more blockchain courses on udemy click this link [udemy.com/blockchain](https://www.udemy.com/courses/search/?src=ukw&q=blockchain)
